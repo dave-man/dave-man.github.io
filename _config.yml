@@ -114,9 +114,6 @@ author:
   location         : "Somewhere in the world"
   email            : "dav.man@pm.me"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dav.man@pm.me
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://dave-man.github.io"
@@ -131,7 +128,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://dave-man.github.io"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/dave-man"
 
 
