@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "How to setup CLion for GoogleTest testing framework"
+layout: home
+title: "Setup CLion for GoogleTest"
 date: 2019-06-29
 categories:
   - Blog
@@ -10,9 +10,12 @@ tags:
   - CMake
 ---
 
+
 This will be a brief introduction to explain how to download, install 
 and setup (meaning creating a small project to see if everything works "as intended")
 GoogleTest with CLion.
+
+## Before you start
 
 What do you need?
 <ul>
@@ -36,7 +39,7 @@ regarding to the paths for the final test project.
 
 ---
 
-# Let's start, step by step
+Now, let's start, step by step!
 
 ## Download the GoogleTest
 GoogleTest is a C++ testing and mocking framework made by Google (doh!).
@@ -83,7 +86,8 @@ you should now have all the necessary headers placed in /usr/local/include
 and the related libraries in /usr/local/lib
 You're ready to test wether everything works corretly!
 
-# Let's try out
+## Let's try out
+
 Pop open CLion and create a new project ("C++ Executable", CLion will set up for you
 a CMake project by default).
 
