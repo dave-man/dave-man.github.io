@@ -93,7 +93,7 @@ a CMake project by default).
 
 In the default "main.cpp" file, paste this:
 
-```c+pp
+```cpp
 #include "gmock/gmock.h"
 //#include "gtest/gtest.h"
 #include <iostream>
