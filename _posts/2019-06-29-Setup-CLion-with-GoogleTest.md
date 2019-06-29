@@ -4,6 +4,7 @@ title: "Setup CLion for GoogleTest"
 date: 2019-06-29
 categories:
   - Blog
+  - Programming
 tags:
   - GoogleTest
   - CLion
