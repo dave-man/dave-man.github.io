@@ -2,6 +2,12 @@
 layout: post
 title: "How to setup CLion for GoogleTest testing framework"
 date: 2019-06-29
+categories:
+  - Blog
+tags:
+  - GoogleTest
+  - CLion
+  - CMake
 ---
 
 This will be a brief introduction to explain how to download, install 
