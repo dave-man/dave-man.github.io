@@ -93,7 +93,7 @@ a CMake project by default).
 
 In the default "main.cpp" file, paste this:
 
-```C++
+```c+pp
 #include "gmock/gmock.h"
 //#include "gtest/gtest.h"
 #include <iostream>
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 
 while in the "CMakeLists.txt" replace the last two lines (the ones after "project(...)" with:
 
-```CMake
+```cmake
 set(CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS} "-std=c++11 -pthread")
 include_directories(/usr/local/include)
 link_directories(/usr/local/lib)
