@@ -121,7 +121,8 @@ to be, so hitting the run button will show in the console:
 
 Congrats, you're done!
 
-Time to do some more serious testing.. although not really 'recent', 
-if enjoy reading or like to learn from a book, I'm currently reading
+Time to do some more serious testing.. 
+Although it's not really 'recent', if you enjoy reading or learning from a book, 
+you should give a try to 
 ["Modern C++ Programming with Test-Driven Development by Jeff Langr"](https://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development) 
- from [The Pragmatice Bookshelf](https://pragprog.com/) and I'm really enjoying it! 
+ from [The Pragmatice Bookshelf](https://pragprog.com/)! 
