@@ -132,6 +132,8 @@ to be, so hitting the run button will show in the console:
 
 ![Everything's working](/assets/images/posts/2019-06/05_TEST.png)
 
+You can also clone the project from [here](https://github.com/dave-man/CLionGoogleTest.git)
+
 ---
 
 Congrats, you're done!
