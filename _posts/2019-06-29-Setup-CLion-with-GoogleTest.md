@@ -23,7 +23,7 @@ What do you need?
 <li> Git </li>
 <li> A C++ compiler </li>
 <li> Make and CMake </li>
-<li> CLion IDE from Jebtrains or whatever IDE or text editor you're used to: since I love Jebtrains products, I try to use them as much as possible ;)</li>
+<li> CLion IDE from Jetbrains or whatever IDE or text editor you're used to: since I love Jebtrains products, I try to use them as much as possible ;)</li>
 <li> A bit of time and patience! </li>
 </ul>
 
